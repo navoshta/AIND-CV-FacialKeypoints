@@ -1,5 +1,6 @@
 ._.DS_Store
 .DS_Store
 __pycache__
+.ipynb_checkpoints
 data/training.csv
 data/test.csv
